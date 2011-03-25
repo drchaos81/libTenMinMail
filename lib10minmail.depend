@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1301086091 source:/home/bert/Source/lib10minmail/main.c
+	<stdio.h>
+	<stdlib.h>
+	"lib10minmail.h"
+
+1301084498 /home/bert/Source/lib10minmail/lib10minmail.h
+
+1300962413 /home/bert/Source/myString/libMyString.h
+
+1301086080 source:/home/bert/Source/lib10minmail/lib10minmail.c
+	<curl/curl.h>
+	<curl/easy.h>
+	<curl/types.h>
+	<string.h>
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+	"/home/bert/Source/myString/libMyString.h"
+
